@@ -6,7 +6,7 @@
 ## Results
 ### Image with code
 
-![]()
+![JD](https://github.com/maddalisushmitha/surfs_up/blob/main/June_to_Dec.png)
 
 1.June has average tempuratures high than december in all times
 2. In December Temparature variation is high which can be observed from Standard deviation in december was 3.745 where as june was 3.25
